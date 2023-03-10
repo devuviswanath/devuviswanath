@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devu Viswanath</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devuviswanath&label=Profile%20views&color=0e75b6&style=flat" alt="devuviswanath" /> </p>
 
 - 📫 How to reach me **devuviswanath1996@gmail.com**
 
