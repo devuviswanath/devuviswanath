@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devuviswanath&label=Profile%20views&color=0e75b6&style=flat" alt="devuviswanath" /> </p>
 
-- 📫 How to reach me **devuviswanath1996@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/devuviswanathsuma](www.linkedin.com/in/devuviswanathsuma)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
