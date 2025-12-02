@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Software Engineer</h3>
 
 
-- 📫 How to reach me **devu.v.suma@gmail.com**
+- 📫 How to reach me **suma.v.devu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
